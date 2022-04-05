@@ -1,0 +1,29 @@
+.complete-border{
+    position: relative;
+    border: 4px solid blue;
+    width: 600px;
+    height: 250px;
+}
+
+.square {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+}
+.pos1{
+    left: 50px;
+    top: 90px;
+}
+.pos2{
+    left: 240px;
+    top: 50px;
+}
+.pos3{
+    left: 540px;
+    top: 100px;
+}
+.pos4{
+    left: 380px;
+    top: 200px;
+}
+
